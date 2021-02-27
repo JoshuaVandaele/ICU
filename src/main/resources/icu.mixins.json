@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.folfy.icu.icu.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BarrierBlockMixin"
+  ],
+  "client": [
+    "BarrierBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

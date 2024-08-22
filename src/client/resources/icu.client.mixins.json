@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "software.vandaele.icu.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["BarrierBlockMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
